@@ -1,0 +1,21 @@
+{
+  "name": "Respuestas · Mentoría · Vane Medina",
+  "short_name": "Mentoría Vane",
+  "description": "Respuestas del form de mentoría de Vane Medina",
+  "background_color": "#2a3b19",
+  "theme_color": "#2a3b19",
+  "icons": [
+    {
+      "src": "https://d1yei2z3i6k35z.cloudfront.net/5234512/6b0496b5796322.63405572_open-graph_1200x1200.jpg",
+      "sizes": "1200x1200",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d1yei2z3i6k35z.cloudfront.net/5234512/6b0496b5796322.63405572_open-graph_1200x1200.jpg",
+      "sizes": "1200x1200",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
